@@ -1,5 +1,7 @@
 # site
 title: Louie
+theme: louie
+
 baseurl: "/louie"
 url: "http://lily.work"
 favicon: "/assets/sample/ico.png"
