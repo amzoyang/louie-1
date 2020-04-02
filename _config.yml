@@ -9,7 +9,7 @@ g_analytics: UA-12345678-1
 
 # bio
 header: Hi, I'm Amber Yang.
-desc: >
+desc: |
   I'm a Computer Science and Physics student at Stanford. I spent a quarter abroad this year studying Philosophy at Oxford.
 
   At Stanford, I'm doing computational neutrino research under Hirohisa Tanaka at the Stanford Linear Accelerator Center, lead the talk series #nofilter, and ama VP at BASES (entrepreneurship club).
