@@ -22,9 +22,9 @@ desc: >
 
 # posts
 date_format: "%Y"
-post_title: Story
+post_title: Title
 post_date: Year
-post_cat: Genre
+post_cat: Type
 
 # post detail
 prev-next: true
