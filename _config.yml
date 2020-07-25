@@ -22,7 +22,7 @@ desc: >
 date_format: "%Y"
 post_title: Blog
 post_date: Date
-post_cat: Type (Project/Longform Article)
+post_cat: Type
 
 # post detail
 prev-next: true
